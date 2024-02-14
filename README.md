@@ -28,4 +28,4 @@ et :
 
 Supprimer ces lignes dans `global.js` en cherchant `SlideshowComponent` : 
 
-![screenshot](https://github.com/Julien712/modif-code-shopify/screenshot.png)
+![screenshot](https://github.com/Julien712/modif-code-shopify/blob/main/screenshot.png)
